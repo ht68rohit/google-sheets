@@ -656,4 +656,3 @@ func getNewRowUpdate(spreadsheetID string, sub Subscribe) {
 func toCharStr(i int) string {
 	return string('A' - 1 + i)
 }
-
